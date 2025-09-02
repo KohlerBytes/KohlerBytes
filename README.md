@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Köhler👋</h1>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fhomem-programando&psig=AOvVaw2aY5jXewLKwXqsY1szizHQ&ust=1756924141353000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj9tMnauo8DFQAAAAAdAAAAABAE" width="500" alt="Descrição da imagem"/>
+<img src="https://img.freepik.com/fotos-gratis/especialista-em-seguranca-cibernetica-a-trabalhar-com-tecnologia-em-luzes-de-neon_23-2151645607.jpg?semt=ais_incoming&w=740&q=80" width="500" alt="Descrição da imagem"/>
 
 
 <p align="center">
