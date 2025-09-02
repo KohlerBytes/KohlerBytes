@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Köhler👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" "/>
+  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://giphy.com/gifs/travel-car-cyberpunk-jx4jKhrKvifvCZtyN5)" width="400" "/>
 </p>
 
 <p align="center">
