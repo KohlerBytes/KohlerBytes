@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Köhler👋</h1>
-
-<img src="https://img.freepik.com/fotos-gratis/especialista-em-seguranca-cibernetica-a-trabalhar-com-tecnologia-em-luzes-de-neon_23-2151645607.jpg?semt=ais_incoming&w=740&q=80" width="500" alt="Descrição da imagem"/>
-
+<p align="center">
+  <img src="https://img.freepik.com/fotos-gratis/especialista-em-seguranca-cibernetica-a-trabalhar-com-tecnologia-em-luzes-de-neon_23-2151645607.jpg?semt=ais_incoming&w=740&q=80" width="350" alt="Quarto"/>
+</p>
 
 <p align="center">
   💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Sempre aprendendo
