@@ -44,7 +44,7 @@
 
 ### 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Köhler-almeida)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/k%C3%B6hler-almeida-50a6b1258/)]
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:kohlernalmeida@gmail.com)](mailto:Kohlernalmeida@gmail.com)
 
 ---
