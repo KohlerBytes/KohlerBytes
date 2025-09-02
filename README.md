@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou Köhler👋</h1>
 
-<p align="center">
-  <img src="https://giphy.com/gifs/travel-car-cyberpunk-jx4jKhrKvifvCZtyN5" width="400" "/>
-</p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fhomem-programando&psig=AOvVaw2aY5jXewLKwXqsY1szizHQ&ust=1756924141353000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj9tMnauo8DFQAAAAAdAAAAABAE" width="500" alt="Descrição da imagem"/>
+
 
 <p align="center">
   💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Sempre aprendendo
