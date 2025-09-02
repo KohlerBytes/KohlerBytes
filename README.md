@@ -44,7 +44,7 @@
 
 ### 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/k%C3%B6hler-almeida-50a6b1258/details/experience/))
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:seu@email.com)](mailto:Kohlernalmeida@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Köhler-almeida)]
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:kohlernalmeida@gmail.com)](mailto:Kohlernalmeida@gmail.com)
 
 ---
