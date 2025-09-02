@@ -1,6 +1,10 @@
 <h1 align="center">Olá! Eu sou Köhler👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" "/>
+</p>
+
+<p align="center">
   💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Sempre aprendendo
 </p>
 
